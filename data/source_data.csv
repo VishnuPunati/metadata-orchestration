@@ -1,0 +1,11 @@
+id,name,category,price,last_modified
+1,csv_item_1,electronics,120.50,2026-03-20T12:00:00Z
+2,csv_item_2,books,15.25,2026-03-20T13:00:00Z
+3,csv_item_3,kitchen,45.00,2026-03-20T14:00:00Z
+4,csv_item_4,sports,22.10,2026-03-20T15:00:00Z
+5,csv_item_5,beauty,31.90,2026-03-20T16:00:00Z
+6,csv_item_6,grocery,9.99,2026-03-20T17:00:00Z
+7,csv_item_7,stationery,5.49,2026-03-20T18:00:00Z
+8,csv_item_8,apparel,60.00,2026-03-20T19:00:00Z
+9,csv_item_9,automotive,88.75,2026-03-20T20:00:00Z
+10,csv_item_10,home,140.00,2026-03-20T21:00:00Z
